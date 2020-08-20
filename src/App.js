@@ -14,7 +14,7 @@ function App() {
   }, []);
   return (
     <main>
-      <h1>Create React App + Go API</h1>
+      <h1>Alexander's Master Plan</h1>
       <h2>
         Deployed with{' '}
         <a
@@ -22,7 +22,7 @@ function App() {
           target="_blank"
           rel="noreferrer noopener"
         >
-          Vercel
+         Vercel
         </a>
         !
       </h2>
